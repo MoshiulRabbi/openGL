@@ -1,2 +1,2 @@
 # openGL
-Projects and Resource of Computer Graphics course
+Project and Resources of Computer Graphics course
